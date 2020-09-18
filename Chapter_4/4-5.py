@@ -8,3 +8,4 @@ print()
 buffet= ("chicken" , "pasta" , "sushi" , "salad" , "rice")
 for buff in buffet:
     print(buff)
+
