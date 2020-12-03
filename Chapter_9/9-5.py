@@ -29,8 +29,5 @@ class Icecreamstand(Restaurant):
         super().__init__(restaurant_name , cuisine_type)
         self.Flavors = Flavors( "vanilla" , "chocolate" , "rocky road")
 
-    def ice_cream_flavors(self):
-        print(self.Flavors)
-
 stand1 = Icecreamstand( "creamville" , "ice_cream")
 stand1.Flavors.ic_flavors()
