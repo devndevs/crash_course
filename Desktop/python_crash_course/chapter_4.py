@@ -5,4 +5,4 @@ for pizza in pizzas:
     print(f"{pizza}\n")
 
 for pizza in pizzas:
-    print(f"I love {pizza}\n")
+    print(f"I love {pizza}\n") 

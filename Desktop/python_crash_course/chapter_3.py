@@ -123,7 +123,3 @@ print(dream_locations)
 3-9
 
 print(len(guest_list))
-
-
-
-
